@@ -6,3 +6,12 @@
     background-color: #f9f9f9; /* พื้นหลังสีอ่อน */
     border-radius: 5px; /* มุมกรอบโค้ง */
 }
+/* กำหนดกรอบสวยๆ สำหรับเนื้อหา */
+.content-container {
+    border: 2px solid #4CAF50; /* กรอบสีเขียว */
+    padding: 20px;
+    margin: 20px 0;
+    background-color: #f4f4f4; /* พื้นหลังสีเทาอ่อน */
+    border-radius: 15px; /* มุมกรอบโค้ง */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* เงาเบา */
+}
