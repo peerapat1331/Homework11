@@ -1,0 +1,8 @@
+/* กำหนด CSS สำหรับกรอบข้อความ */
+.info-container {
+    border: 2px solid #3f11e4; /* กรอบสีเขียว */
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #f9f9f9; /* พื้นหลังสีอ่อน */
+    border-radius: 5px; /* มุมกรอบโค้ง */
+}
